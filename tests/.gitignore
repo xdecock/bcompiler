@@ -1,0 +1,10 @@
+*.phb
+*.phb.gz
+*.phb.bz2
+*.diff
+*.exp
+*.log
+*.out
+*.php
+*.sh
+
